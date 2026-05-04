@@ -1,4 +1,5 @@
 {
-    "version": "1.0.0",
-    "notes": "Première version publique"
+    "version": "1.0.1",
+    "notes": "Correction du bug XYZ",
+    "url": "https://raw.githubusercontent.com/LeLibanaisDu27/JSF-MicroDuret-/refs/heads/main/JS_Framatome.py"
 }
